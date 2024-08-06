@@ -1,7 +1,7 @@
-<h1 align="center">🔥 HI THERE 🔥 </h1>
+<h2 align="center">🔥 HI THERE 🔥 </h2>
 
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ0MDlrN2thY2h1bnc2endxdHB1cW9xY3Rza244aGhuODdnc2hheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/897vm5ABNbgFW/giphy.gif"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ0MDlrN2thY2h1bnc2endxdHB1cW9xY3Rza244aGhuODdnc2hheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/897vm5ABNbgFW/giphy.gif" width="400" height="150" />
 </p>
 
 <p align="center">
@@ -24,13 +24,19 @@ I'm Gianluca, a computer engineering student from Italy, but you can call me <b>
     </a>
     <a href="https://t.me/Gnanlu03">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-
-    
+    </a>    
+    <a href="https://www.facebook.com/gianlu.rava">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>  
 </div>
 
 
----
-### PROGRAMMING LANGUAGES
 
-<a >
+---
+### STATS
+![Gianlu03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gianlu03&show_icons=true&theme=dark)
+
+---
+
+### LANGUAGES AND TOOLS
+
