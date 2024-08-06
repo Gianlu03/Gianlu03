@@ -1,4 +1,4 @@
-<h2 align="center">🔥 HI THERE 🔥 </h2>
+<h1 align="center">🔥 HI THERE 🔥 </h1>
 
 <p align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ0MDlrN2thY2h1bnc2endxdHB1cW9xY3Rza244aGhuODdnc2hheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/897vm5ABNbgFW/giphy.gif"/>
