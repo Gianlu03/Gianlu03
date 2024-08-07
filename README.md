@@ -119,3 +119,9 @@ Here follows what i learnt concerning IT from 2017!
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
     </a>  
 </div>
+
+<br>
+
+<p align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGsxcXZpNHZkMDE2anAwaHRhaG44NzV4YXo3Z2gxcjF2eDhtMDN0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4oKYFlAcv2AU/giphy.gif" width="350" height="170" />
+</p>
