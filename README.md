@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-I'm Gianluca, a computer engineering student from Italy, but you can call me <b>Gian!</b>
+I'm Gianluca, a computer engineering student from Italy, but you can call me <b>Gian!</b><br>
+Here follows what i learnt concerning IT from 2017!
 </p>
 
 <h2 align="center"> PROGRAMMING LANGUAGES </h2>
@@ -42,6 +43,9 @@ I'm Gianluca, a computer engineering student from Italy, but you can call me <b>
     </a>
     <a href = "https://www.php.net/">
         <img src="https://skillicons.dev/icons?i=php" alt="php"/>
+    </a>
+    <a href = "https://getbootstrap.com/">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="php"/>
     </a>
 </p>
 
@@ -82,6 +86,14 @@ I'm Gianluca, a computer engineering student from Italy, but you can call me <b>
      <a href = "https://www.markdownguide.org/">
         <img src="https://skillicons.dev/icons?i=md" 
         alt="md"/>
+    </a>
+    <a href = "https://www.microsoft.com/it-it/microsoft-365/word?market=it">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=word"
+        alt="word"/>
+    </a>
+     <a href = "https://www.microsoft.com/it-it/microsoft-365/excel?market=it">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=excel"
+        alt="excel"/>
     </a>
 </p>
 
