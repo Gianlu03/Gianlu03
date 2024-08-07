@@ -8,6 +8,84 @@
 I'm Gianluca, a computer engineering student from Italy, but you can call me <b>Gian!</b>
 </p>
 
+<h2 align="center"> PROGRAMMING LANGUAGES </h2>
+<p align = "center">
+    <a href = "https://www.java.com/it/">
+        <img src="https://skillicons.dev/icons?i=java"
+        alt="java"/>
+    </a>
+    <a href = "https://it.wikipedia.org/wiki/C_(linguaggio_di_programmazione)">
+        <img src="https://skillicons.dev/icons?i=c" alt="c"/>
+    </a>
+    <a href = "https://isocpp.org/">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp"/>
+    </a>
+    <a href = "https://dotnet.microsoft.com/it-it/languages/csharp">
+        <img src="https://skillicons.dev/icons?i=cs" alt="c#"/>
+    </a>
+    <a href = "https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python" alt="python"/>
+    </a>
+</p>
+
+<h2 align="center"> WEB DEVELOPMENT </h2>
+<p align = "center">
+    <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html"
+        alt="html"/>
+    </a>
+    <a href = "https://www.w3.org/Style/CSS/Overview.en.html">
+        <img src="https://skillicons.dev/icons?i=css" alt="css"/>
+    </a>
+    <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" alt="js"/>
+    </a>
+    <a href = "https://www.php.net/">
+        <img src="https://skillicons.dev/icons?i=php" alt="php"/>
+    </a>
+</p>
+
+<h2 align="center"> DATABASES </h2>
+<p align = "center">
+    <a href = "https://www.microsoft.com/it-it/sql-server/sql-server-2022">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"
+        alt="sqlserver"/>
+    </a>
+    <a href = "https://www.mysql.com/it/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql"
+        alt="mysql"/>
+    </a>
+</p>
+
+<h2 align="center"> OPERATING SYSTEMS </h2>
+<p align = "center">
+    <a href = "https://www.microsoft.com/it-it/windows?r=1">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=windows"
+        alt="windows"/>
+    </a>
+    <a href = "https://www.linux.it/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linux"
+        alt="linux"/>
+    </a>
+</p>
+
+<h2 align="center"> OTHER SKILLS </h2>
+<p align = "center">
+    <a href = "https://www.canva.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=canva"
+        alt="canva"/>
+    </a>
+    <a href = "https://www.raspberrypi.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi"
+        alt="raspberrypi"/>
+    </a>
+     <a href = "https://www.markdownguide.org/">
+        <img src="https://skillicons.dev/icons?i=md" 
+        alt="md"/>
+    </a>
+</p>
+
+<h2 align="center"> CONNECT WITH ME </h2>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/gianluca-ravaglia-530812237/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,16 +107,3 @@ I'm Gianluca, a computer engineering student from Italy, but you can call me <b>
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
     </a>  
 </div>
-
----
-### PROGRAMMING LANGUAGES
-
-
----
-### STATS
-![Gianlu03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gianlu03&show_icons=true&theme=dark)
-
----
-
-### LANGUAGES AND TOOLS
-
