@@ -95,6 +95,14 @@ Here follows what i learnt concerning IT from 2017!
         <img src="https://go-skill-icons.vercel.app/api/icons?i=excel"
         alt="excel"/>
     </a>
+    <a href = "https://git-scm.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git"
+        alt="git"/>
+    </a>
+    <a href = "https://www.github.com">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=github"
+        alt="github"/>
+    </a>
 </p>
 
 <h2 align="center"> CONNECT WITH ME </h2>
