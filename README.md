@@ -6,7 +6,7 @@
 
 <p align="center">
 I'm Gianluca, a computer engineering student from Italy, but you can call me <b>Gian!</b><br>
-Here follows what i've learnt concerning IT since 2017!
+Here follows what I've learnt concerning IT since 2017!
 </p>
 
 <h2 align="center"> PROGRAMMING LANGUAGES </h2>
